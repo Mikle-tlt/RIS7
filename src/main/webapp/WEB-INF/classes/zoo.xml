@@ -1,0 +1,58 @@
+<zoos>
+    <zoo>
+        <name>Zoo №35</name>
+        <animals>276</animals>
+        <servicePersonnel>30</servicePersonnel>
+        <ticketPrice>11</ticketPrice>
+        <doctors>2</doctors>
+    </zoo>
+    <zoo>
+        <name>Zoo №84</name>
+        <animals>50</animals>
+        <servicePersonnel>3</servicePersonnel>
+        <ticketPrice>4</ticketPrice>
+        <doctors>5</doctors>
+    </zoo>
+    <zoo>
+        <name>Zoo №9</name>
+        <animals>220</animals>
+        <servicePersonnel>4</servicePersonnel>
+        <ticketPrice>9</ticketPrice>
+        <doctors>87</doctors>
+    </zoo>
+    <zoo>
+        <name>Zoo №3</name>
+        <animals>140</animals>
+        <servicePersonnel>7</servicePersonnel>
+        <ticketPrice>3</ticketPrice>
+        <doctors>1</doctors>
+    </zoo>
+    <zoo>
+        <name>Zoo №85</name>
+        <animals>169</animals>
+        <servicePersonnel>24</servicePersonnel>
+        <ticketPrice>12</ticketPrice>
+        <doctors>4</doctors>
+    </zoo>
+    <zoo>
+        <name>Zoo №100</name>
+        <animals>245</animals>
+        <servicePersonnel>28</servicePersonnel>
+        <ticketPrice>4</ticketPrice>
+        <doctors>2</doctors>
+    </zoo>
+    <zoo>
+        <name>Zoo №98</name>
+        <animals>72</animals>
+        <servicePersonnel>18</servicePersonnel>
+        <ticketPrice>8</ticketPrice>
+        <doctors>2</doctors>
+    </zoo>
+    <zoo>
+        <name>Zoo №221</name>
+        <animals>71</animals>
+        <servicePersonnel>17</servicePersonnel>
+        <ticketPrice>7</ticketPrice>
+        <doctors>1</doctors>
+    </zoo>
+</zoos>
